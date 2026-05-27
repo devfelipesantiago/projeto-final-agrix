@@ -32,10 +32,10 @@ Este projeto é uma API RESTful desenvolvida em Java com Spring Boot, voltada pa
 
 1. **Clone o repositório:**
 
-   ```bash
-   git clone https://github.com/seu-usuario/java-001-projeto-final-agrix-fase-c.git
-   cd java-001-projeto-final-agrix-fase-c
-   ```
+```bash
+git clone https://github.com/devfelipesantiago/projeto-final-agrix.git
+cd java-001-projeto-final-agrix-fase-c
+```
 
 2. Instale as dependências e compile o projeto:
 
@@ -115,30 +115,12 @@ src/
  └── main/
      └── java/
          └── com/
-             └── betrybe/
+             └── devfelipesantiago/
                  └── agrix/
  └── test/
      └── java/
          └── com/
-             └── betrybe/
+             └── devfelipesantiago/
                  └── agrix/
                      └── evaluation/
 ```
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-**Como implementar:**
-
-1. Crie um arquivo chamado `README.md` na raiz do seu projeto.
-2. Copie e cole o conteúdo acima.
-3. Ajuste o link do repositório e outras informações específicas do seu projeto, se necessário.
-
-Se precisar de exemplos de requisições ou de mais detalhes sobre alguma rota, é só pedir!
